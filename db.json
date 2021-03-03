@@ -1,11 +1,22 @@
 {
-  "posts": [
+  "cars": [
     {
       "id": 1,
-      "title": "hello"
+      "mark": "Hyundai",
+      "model": "i30",
+      "colour": "black"
+    },
+    {
+      "id": 2,
+      "mark": "Polonez",
+      "model": "Atu",
+      "colour": "red"
+    },
+    {
+      "id": 3,
+      "mark": "VW",
+      "model": "Golf",
+      "colour": "blue"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
